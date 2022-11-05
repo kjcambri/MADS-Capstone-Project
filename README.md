@@ -23,7 +23,7 @@ From the models, the data science objectives are to identify how the data will b
 
 ## Planned Methodology 
 
-	The planned methodologies include scraping data from https://sofifa.com. The problem will be approached using the CRISP-DM methodology. This includes understanding problem statements, understanding the data and preparing correctly for the modeling phase, performing the analysis and modeling, validating the results, presenting the results and visualizations, and lastly, deploying the model. 
+The planned methodologies include scraping data from https://sofifa.com. The problem will be approached using the CRISP-DM methodology. This includes understanding problem statements, understanding the data and preparing correctly for the modeling phase, performing the analysis and modeling, validating the results, presenting the results and visualizations, and lastly, deploying the model. 
 
 ## Real-World Impact and Planned Deliverables
 
