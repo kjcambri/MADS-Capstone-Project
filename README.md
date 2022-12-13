@@ -112,8 +112,8 @@ might also affect a player’s ability to perform at their peak ability.
 
 # Call to Action (CTA):
 Please reach out to:
-Kevon Cambridge (kcambridge@sandiego.edu)
-Payal B Muni (pmuni@sandiego.edu) 
-Kevin Stewart (kevinstewart@sandiego.edu)
+#### Kevon Cambridge (kcambridge@sandiego.edu)
+#### Payal B Muni (pmuni@sandiego.edu) 
+#### Kevin Stewart (kevinstewart@sandiego.edu)
 
 
