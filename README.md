@@ -111,7 +111,7 @@ positions. For example, overall team playing styles, coaching styles, and overal
 might also affect a player’s ability to perform at their peak ability.
 
 # Call to Action (CTA):
-Please reach out to:
+###Please reach out to:
 #### Kevon Cambridge (kcambridge@sandiego.edu)
 #### Payal B Muni (pmuni@sandiego.edu) 
 #### Kevin Stewart (kevinstewart@sandiego.edu)
